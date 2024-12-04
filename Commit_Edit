@@ -1,0 +1,28 @@
+# Author:    hpatel-blackbug <hpatel12@mail.lakelandcc.edu>
+#
+# On branch stable
+# Your branch is behind 'origin/stable' by 29 commits, and can be fast-forwarded.
+#   (use "git pull" to update your local branch)
+#
+# Changes to be committed:
+#	new file:   dev/manual_tests/test/game_logic_test.dart
+### details:
+# updating dependencies
+# flame_audio: ^1.0.0
+# shared_preferences: ^2.0.0
+# async: ^2.10.0
+#create a test file : game_logic_test_dart:
+#import 'package:test/test.dart';
+#import 'package:en_passant/game_logic.dart';
+
+#void main() {
+# test('Pawn movement is valid', () {
+#   // Example test
+#   var result = isValidMove('Pawn', start: 'e2', end: 'e4');
+#   expect(result, isTrue);
+# });
+#}
+## i tried to understand flutter, downloaded flutter and dart , also android studio to work with, but failed to run the chess app.
+# I learn about what is flutter, dart language, even downloaded in my pc to work on, but failed to run. 
+#when flutter started to work properly its shows dart is not available. 
+ 
